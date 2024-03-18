@@ -46,7 +46,7 @@ import net.sf.jasperreports.engine.JasperReport;
  */
 /**
  * The Class JasperCtl.
- * @author Krishnpal Verma
+ * @author   Gopal Tyagi
  */
 
 @Transactional
