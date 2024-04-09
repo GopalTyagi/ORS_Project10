@@ -12,7 +12,7 @@ import org.springframework.stereotype.Repository;
 import com.rays.common.BaseDAOImpl;
 import com.rays.dto.CourseDTO;
 /**
- * @author Krishnpal Verma
+ * @author Gopal Tyagi
  */
 @Repository
 public class CourseDAOImpl extends BaseDAOImpl<CourseDTO> implements CourseDAOInt {

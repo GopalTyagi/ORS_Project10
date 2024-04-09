@@ -12,7 +12,7 @@ import org.springframework.stereotype.Repository;
 import com.rays.common.BaseDAOImpl;
 import com.rays.dto.RoleDTO;
 /**
- * @author Krishnpal Verma
+ * @author Gopal Tyagi
  *
  */
 @Repository

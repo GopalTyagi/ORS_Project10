@@ -7,7 +7,7 @@ import com.rays.dto.RoleDTO;
 /**
  * College Service interface.
  * 
- * @author Krishnpal Verma
+ * @author Gopal Tyagi
  
  */
 

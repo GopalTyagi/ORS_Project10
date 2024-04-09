@@ -4,7 +4,7 @@ import com.rays.common.BaseDAOInt;
 import com.rays.dto.CourseDTO;
 import com.rays.dto.StudentDTO;
 /**
- * @author Krishnpal Verma
+ * @author Gopal Tyagi
  *
  */
 public interface CourseDAOInt extends BaseDAOInt<CourseDTO> {
