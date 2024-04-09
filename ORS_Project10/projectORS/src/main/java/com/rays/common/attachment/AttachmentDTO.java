@@ -11,7 +11,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 /**
  * Contains attached file information and data
- * @author Krishnpal Verma
+ * @author Gopal Tyagi
  */
 
 @Entity
