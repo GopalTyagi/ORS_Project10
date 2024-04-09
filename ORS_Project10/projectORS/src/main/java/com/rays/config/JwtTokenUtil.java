@@ -16,7 +16,7 @@ import io.jsonwebtoken.SignatureAlgorithm;
 
 
 /**
- * @author Krishnpal Verma
+ * @author Gopal Tyagi
  *
  */
 @Component
