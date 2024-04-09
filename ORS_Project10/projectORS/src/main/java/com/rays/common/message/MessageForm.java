@@ -7,7 +7,7 @@ import com.rays.common.BaseForm;
 
 /**
  * Contains Role form elements and their declarative input validations.
- * @author Krishnpal Verma
+ * @author Gopal Tyagi
  * 
  */
 public class MessageForm extends BaseForm {
