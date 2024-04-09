@@ -21,7 +21,7 @@ import io.jsonwebtoken.ExpiredJwtException;
 
 
 /**
- * @author Krishnpal Verma
+ * @author Gopal Tyagi
  *
  */
 @Component
